@@ -5,6 +5,7 @@
 * Finance Project
 * Iris Dataset
 * KNN Phishing
+* Project_Election
 * Game Review
 * Stock Market
 * Titanic
