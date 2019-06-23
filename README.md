@@ -1,4 +1,4 @@
-# ✷ Machine Learning Projects
+# ☯ Machine Learning Projects ☯
 
 ⇉ 911 Calls <br>
 ⇉ Classified_Data_KNN <br>
