@@ -1,12 +1,12 @@
-# DS-ML-Projects
+# ✷ Machine Learning Projects
 
-* 911 Calls
-* Classified_Data_KNN
-* Finance Project
-* Iris Dataset
-* KNN Phishing
-* Project_Election
-* Game Review
-* Stock Market
-* Titanic
+* ≛ 911 Calls
+* ≛ Classified_Data_KNN
+* ≛ Finance Project
+* ≛ Iris Dataset
+* ≛ KNN Phishing
+* ≛ Project_Election
+* ≛ Game Review
+* ≛ Stock Market
+* ≛ Titanic
  
