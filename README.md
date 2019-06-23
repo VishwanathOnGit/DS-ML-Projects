@@ -1,6 +1,6 @@
 # ✷ Machine Learning Projects
 
-≛ 911 Calls
+≛ 911 Calls<br>
 ≛ Classified_Data_KNN
 ≛ Finance Project
 ≛ Iris Dataset
